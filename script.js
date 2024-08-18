@@ -23,27 +23,13 @@ var x = setInterval(function() {
 let cont = document.getElementsByClassName("deal")
 cont[0].style.color = "#3C4C85"
 
-// // landing.js
-// document.addEventListener('DOMContentLoaded', (event) => {
-//   // Get the button element
-//   const contactButton = document.getElementById('contact-button');
-  
-//   // Add event listener for click
-//   contactButton.addEventListener('click', () => {
-//       // Navigate to the contact form page
-//       window.location.href = 'contact.html';
-//   });
-// });
 
-// landing.js
 document.addEventListener('DOMContentLoaded', () => {
-  // Get all buttons with the class 'contact-button'
+
   const contactButtons = document.querySelectorAll('.contact-button');
   
-  // Add event listener to each button
   contactButtons.forEach(button => {
       button.addEventListener('click', () => {
-          // Navigate to the contact form page
           window.location.href = 'contact.html';
       });
   });
