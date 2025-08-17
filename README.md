@@ -1,4 +1,24 @@
-# This is  a simple landing page which is made using html , css and  javascript which is linked to a form that takes user's inputs 
-<br>
-<br>
-<b>Created by - Mohd Nabeel</b>
+# Fitness Landing Page 🏋️‍♂️
+
+A simple **Fitness Landing Page** built using **HTML, CSS, and JavaScript**.  
+This project has no backend or database — it is purely frontend based.  
+
+---
+
+## 🚀 Live Demo  
+👉 [View Live Project](https://landing-page-eight-rosy-89.vercel.app/)
+
+---
+
+## 🛠️ Tech Stack  
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla)**  
+
+---
+
+## 📌 Features  
+- Responsive design for all devices  
+- Simple and clean UI  
+- Interactive form for user input  
+- Fast and lightweight (no backend)  
